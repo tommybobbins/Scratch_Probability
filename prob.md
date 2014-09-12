@@ -52,7 +52,7 @@ Ask your teacher to demonstrate the dice and cups sorter.
 + Create a list called Dice_Rolls underneath lists in the Orange variables blocks list. Make sure Dice_Rolls applies to all sprites.
 + Modify the code so that it looks like the following.
 ![screenshot](images/14.gif)
-+ Click on the + inside the stage area of the screen until 6 boxes are shown. This will show us our totals for how many rolls of 1,2,3,4,5 and 6 have been.
++ Click on the + inside the stage area of the screen until 6 boxes are shown. The + icon is next to the length in bottom left corner of the grey box. See screenshot below.  This shows totals for how many rolls of each of 1,2,3,4,5 and 6 have been observed.
 ![screenshot](images/15.gif)
 
 ## Test your project
