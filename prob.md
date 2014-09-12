@@ -108,3 +108,12 @@ Click the green flag.
 It is possible to extend this to two dice, adding the total on each dice together. For example 6 + 6 = 12. We would increase our 12 score by 1.
 
 ![screenshot](images/12sided_dice_stage_script2.gif)
+
+You will need to extend the list to have up to 12 items in and you will need to zero all the boxes (not just 6). You do not have to worry about graphing all combinations. 
+
+## Test your project
+
+Click the green flag.
+
++ What is the most likely number from rolling two dice? 
++ Increase the number of rolls to 1000, what is the most likely number now?
