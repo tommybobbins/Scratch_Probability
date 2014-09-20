@@ -129,3 +129,4 @@ Examine the below code. What does it do?
 Click the green flag.
 
 + What is the most likely number to be rolled?  Why? Would someone be able to spot that the dice was loaded? Why?
++ What would happen if the random number was selected between 1 and 10 instead of 1 and 7? Why?
