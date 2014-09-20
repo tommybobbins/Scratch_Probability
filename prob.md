@@ -117,3 +117,15 @@ Click the green flag.
 
 + What is the most likely number from rolling two dice? 
 + Increase the number of rolls to 1000, what is the most likely number now?
+
+# Step 7:  Extension work: Cheating
+
+Examine the below code. What does it do?
+
+![screenshot](images/cheating_code.gif)
+
+## Test your project
+
+Click the green flag.
+
++ What is the most likely number to be rolled?  Why? Would someone be able to spot that the dice was loaded? Why?
