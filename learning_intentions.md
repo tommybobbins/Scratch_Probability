@@ -30,3 +30,4 @@ Use the following smilies to indicate how you did:
 | Challenge                                                 |              |
 | -------------                                             |              |
 | I can debug any code that doesn't work.                   |              |
+| I can use code to cheat.                                  |              |
