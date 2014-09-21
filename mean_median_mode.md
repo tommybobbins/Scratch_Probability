@@ -48,6 +48,10 @@ The mode is the value which occurs most often. For example if we roll (1,1,1,4,4
 
 ## Activity Checklist
 
++ Create a variable dice_face which is used to count up the number of items in our list
++ Create a sum_dice_sides variable which will be used to add the number on each face of the dice.
++ Create a variable mode used to store the mode.
++ Create a variable biggest_number which is used to store the biggest number of times this has been rolled.
 + Add this piece of code to the *Stage* scripts. You should have this code in addition to the code to calculate the mean up above.
 
 ![screenshot](images/mode_corrected.gif)
