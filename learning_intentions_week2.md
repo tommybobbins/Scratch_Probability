@@ -28,7 +28,6 @@ Use the following smilies to indicate how you did:
 | Extension                                                  |              |
 | -------------                                              |              |
 | I calculate the mode programmatically.                     |              |
-| I can programmatically determine odd or even numbers.      |              |
 | I calculate the median programmatically.                   |              |
 | I can extend the code to change the mean.                  |              |
 | -------------                                              |              |

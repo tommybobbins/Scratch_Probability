@@ -132,10 +132,11 @@ Examine the below code.
 ## Activity Checklist
 
 + Modify the code for the 6 sided dice to look like the following:
+What does it do? ________________________________
 
 ![screenshot](images/cheating_code.gif)
 
-What does it do? ________________________________
++ Why hasn't item 7 been initialized?
 
 
 
