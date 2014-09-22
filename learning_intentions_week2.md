@@ -27,11 +27,12 @@ Use the following smilies to indicate how you did:
 | -------------                                              |              |
 | Extension                                                  |              |
 | -------------                                              |              |
-| I calculate the mode programmatically.                     |              |
-| I calculate the median programmatically.                   |              |
+| I can calculate the mode programmatically.                 |              |
+| I can calculate the median for 10 rolls on paper.          |              |
 | I can extend the code for >6 sided or loaded dice.         |              |
 | -------------                                              |              |
 | Challenge                                                  |              |
 | -------------                                              |              |
 | I can debug any code that doesn't work.                    |              |
+| I calculate the median programmatically.                   |              |
 | I can use code to cheat.                                   |              |

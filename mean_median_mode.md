@@ -68,11 +68,16 @@ Click the green flag.
 
 ## Save your project
 
-# Step 3: Calculate the median
+# Step 3: Extension: Calculate the median
 
 The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one.
 
+
 ## Activity Checklist
+
++ Reduce the number of rolls down to 10.
++ Create a new list called *all_rolls*. This will be used to store all the rolls as they occur.
++ Sort through the list on a piece of paper, from lowest to highest. The median is the number which lies between the 5th and 6th item in list of 10 items.
 
 
 ## Test your project
@@ -101,5 +106,28 @@ If you calculated the sum of two dice last week, then calculate the mean, median
 
 What is the mode of the sum of two dice over 100 rolls? ______________________
 What is the mean of the sum of two dice over 100 rolls ? ______________________
+
+
+# Step 5: Challenge: Using a Sorting algorithm to sort a bigger list:
+
+## Activity Checklist
+
++ Increase the number of rolls to 20.
++ We will use a sorting algorithm called "insertion sort" to sort the values in all_rolls. Make your code look like the following:
+
+![screenshot](images/mean_median_mode.gif)
+
+
++ Algorithm taken from http://wiki.scratch.mit.edu/wiki/Sorting_Values
+
+
+## Test your project
+
+Click the green flag.
+
++ How does the median compare to the mean? _________________________
++ Are you happy with the result?_______________________ Why?__________________________________________________________________________
+
+## Save your project
 
 
