@@ -10,7 +10,7 @@ Extend the dice shaker from last week, we will investigate the mean, median and 
 ## Activity Checklist
 
 + Load the 6 sided dice roll from last week. ☐
-+ The code should look something like: ☐
++ The code for the *Stage* should look something like: ☐
 
 ![screenshot](images/8.gif)
 
@@ -28,7 +28,9 @@ To calculate the mean,  we add all the rolls we have made up and then divide by 
 
 ## Activity Checklist
 
-+ To get the total number of rolls, it's easiest to store the value in a variable which we can then use and reuse in our scripts. Create a new value called number_rolls for all Sprites.
++ To get the total score for all rolls, we create a variable *total_score* for all sprites. 
++ To get the total number of rolls, it's easiest to store the value in a variable which we can then use and reuse in our scripts. Create a new value called *number_rolls* for all Sprites.
++ Finally create a variable *mean*.
 + Click on the stage icon and make the code look like the following:
 ![screenshot](images/mean.gif)
 
@@ -39,6 +41,7 @@ Click the green flag.
 
 + What is the mean value. Is this reasonable? __________________
 + What happens if we change the number of rolls to 1000.
++ If you used the cheating code last week, you could add the same code and find out the mean.
 
 ## Save your project
 
