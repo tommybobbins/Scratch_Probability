@@ -116,6 +116,8 @@ In this challenge, we will use the computer to calculate the median. Remember th
 
 ## Activity Checklist
 
++ Create a new variable called *item*.
++ Create a new variable called *insert_location*.
 + Increase the number of rolls to 20.
 + We will use a sorting algorithm called "insertion sort" to sort the values in all_rolls. Make your code look like the following:
 
@@ -127,6 +129,7 @@ Click the green flag.
 
 + How long does it take to sort the list (seconds, minutes or hours)?______________
 + Does the list end up sorted?____________________
++ How long does it take to sort the list when it has 100 rolls (seconds, minutes or hours)?______________
 + How does the median compare to the mean? _________________________
 + Are you happy with the result?_______________________ Why?__________________________________________________________________________
 
