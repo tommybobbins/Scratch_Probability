@@ -110,6 +110,10 @@ What is the mean of the sum of two dice over 100 rolls ? ______________________
 
 # Step 5: Challenge: Using a Sorting algorithm to sort a bigger list:
 
+Computers are very good at calculating numbers and it can be interesting to use them to sort large amounts of numbers. In Computer Science, there are different *recipes* for sorting out lists. We call these Sorting Algorithms. In general, computers can only compare one thing with another thing, so programming computers to sort through lists can be difficult.
+
+In this challenge, we will use the computer to calculate the median. Remember than the median is the middle value of a sorted list. 
+
 ## Activity Checklist
 
 + Increase the number of rolls to 20.
@@ -117,17 +121,16 @@ What is the mean of the sum of two dice over 100 rolls ? ______________________
 
 ![screenshot](images/mean_median_mode.gif)
 
-
-+ Algorithm taken from http://wiki.scratch.mit.edu/wiki/Sorting_Values
-
-
 ## Test your project
 
 Click the green flag.
 
++ How long does it take to sort the list (seconds, minutes or hours)?______________
++ Does the list end up sorted?____________________
 + How does the median compare to the mean? _________________________
 + Are you happy with the result?_______________________ Why?__________________________________________________________________________
 
 ## Save your project
 
 
+Insertion sort algorithm taken from http://wiki.scratch.mit.edu/wiki/Sorting_Values
