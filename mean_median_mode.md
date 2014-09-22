@@ -55,11 +55,7 @@ The mode is the value which occurs most often. For example if we roll (1,1,1,4,4
 + Create a sum_dice_sides variable which will be used to add the number on each face of the dice.
 + Create a variable mode used to store the mode.
 + Create a variable biggest_number which is used to store the biggest number of times this has been rolled.
-+ Add this piece of code to the *Stage* scripts. You should have this code in addition to the code to calculate the mean up above.
-
-![screenshot](images/mode_corrected.gif)
-
-+ Your code should look something like this.
++ Add extra code to the *Stage* scripts. You should have this code in addition to the code to calculate the mean up above.
 
 ![screenshot](images/just_mode_mean.gif)
 
@@ -68,26 +64,42 @@ The mode is the value which occurs most often. For example if we roll (1,1,1,4,4
 Click the green flag.
 + What is the mode? ________________
 + Increase the number of rolls to 1000, what is the mode now?
++ How does the mean compare to the mode for a 6 sided dice? ____________________
 
 ## Save your project
 
 # Step 3: Calculate the median
 
-The median is the middle value (e.g. the median of 1,3,5 is 3 and the median of 1,3,5,7 is 4). 
+The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one.
 
 ## Activity Checklist
-
-+ What is the median of a dice? __________________ (in your head)
-+ Add this piece of code to the *Stage* scripts. You should have this code in addition to the code to calculate the mean and the mode up above.
-
-![screenshot](images/mode_corrected.gif)
 
 
 ## Test your project
 
 Click the green flag.
-+ What is the mode? ________________
-+ Increase the number of rolls to 1000, what is the mode now?
+
++ How does the median compare to the mean? _________________________
++ Are you happy with the result?_______________________ Why?__________________________________________________________________________
 
 ## Save your project
+
+
+# Step 3: Extension: Mean, Median and Mode of the cheating dice.
+
+If you used the cheating dice last week which rolls a 6 more often than it should, then you can apply the same code above to those programs.
+
+What will happen to the mode? ______________________
+What will happen to the mean? ______________________
+What will happen to the median? ______________________ Why?  _______________
+
+
+
+# Step 4: Extension: Mean, Median and Mode of the two dice.
+
+If you calculated the sum of two dice last week, then calculate the mean, median and mode of two dice by applying the code above to both dice.
+
+What is the mode of the sum of two dice over 100 rolls? ______________________
+What is the mean of the sum of two dice over 100 rolls ? ______________________
+
 

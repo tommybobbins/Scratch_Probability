@@ -21,15 +21,15 @@ Use the following smilies to indicate how you did:
 | I can use a list to store each dice roll.                  |              |
 | I can use the computer to count totals of each dice roll.  |              |
 | I know how to calculate the mean.                          |              |
+| I know how to calculate the mode.                          |              |
+| I know how to calculate the median.                        |              |
 | I calculate the mean programmatically (write an algorithm).|              |
-| I can calculate the mode in my head.                       |              |
-| I can calculate the median in my head.                     |              |
 | -------------                                              |              |
 | Extension                                                  |              |
 | -------------                                              |              |
 | I calculate the mode programmatically.                     |              |
 | I calculate the median programmatically.                   |              |
-| I can extend the code to change the mean.                  |              |
+| I can extend the code for >6 sided or loaded dice.         |              |
 | -------------                                              |              |
 | Challenge                                                  |              |
 | -------------                                              |              |
