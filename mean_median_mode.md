@@ -116,6 +116,7 @@ In this challenge, we will use the computer to calculate the median. Remember th
 
 ## Activity Checklist
 
++ Ask your teacher to demonstrate the dice sorting problem.
 + Create a new variable called *item*.
 + Create a new variable called *insert_location*.
 + Increase the number of rolls to 20.
