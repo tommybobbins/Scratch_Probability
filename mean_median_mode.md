@@ -125,11 +125,15 @@ In this challenge, we will use the computer to calculate the median. Remember th
 ![screenshot](images/mean_median_mode.gif)
 
 ### How it works
-This script sorts the data in the list *all_rolls*.
-The list has 2 parts.
-The first part is already sorted and the second part waiting to be sorted.
-When the program gets to an unsorted value in a list the program moves the value into its proper location in the first part of the list.
-When the program gets the end of the list all of the values have been sorted from least to greatest.
++ This script sorts the data in the list *all_rolls*.
++ The list has 2 parts.
++ The first part is already sorted and the second part waiting to be sorted.
++ When the program gets to an unsorted value in a list the program moves the value into its proper location in the first part of the list.
++ When the program gets the end of the list all of the values have been sorted from least to greatest.
+
+![screenshot](images/Insertion-sort-example-300px.gif)
+
+Insertion-sort-example-300px by http:///commons.wikimedia.org/w/index.php?title=User:Swfung8 Swfung8. Licensed under http://creativecommons.org/licenses/by-sa/3.0 Creative Commons Attribution-Share Alike 3.0 via http://commons.wikimedia.org/wiki/ Wikimedia Commons.
 
 ## Test your project
 
