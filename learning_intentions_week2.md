@@ -1,15 +1,11 @@
-# Learning intensions
+# Learning intentions
 
-## Name:
-
-## Class:
+|Name:                    | Class:                        |
 
 ## Learning Intention
 I am programming computers to calculate the mean, median and mode of dice rolls.
-
 Use the following smilies to indicate how you did:
 😃 😐 😞
-
 | Success Criteria                                           | How did I do |
 | -------------                                              |:------------:| 
 | I can create sprites and costumes.                         |              |
