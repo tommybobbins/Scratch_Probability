@@ -1,13 +1,13 @@
 # Learning intentions
-|Name:                    | Class:                        |
-|-------------------------|-------------------------------|
-|                         |                               |
-|-------------------------|-------------------------------|
 
-## Learning Intention
-I am programming computers to calculate the mean, median and mode of dice rolls.
+|Name                    |Class                          |
+|:---|:---|
+|______________   |____________________________________  |
+
+I am learning to code a dice Roll game.
 Use the following smilies to indicate how you did:
 😃 😐 😞
+
 | Success Criteria                                           | How did I do |
 | -------------                                              |:------------:| 
 | I can create sprites and costumes.                         |              |
