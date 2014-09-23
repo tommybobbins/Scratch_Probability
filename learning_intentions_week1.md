@@ -5,9 +5,12 @@
 |   |   |
 
 ## Learning Intention
+
 I am learning to code a dice Roll game
 Use the following smilies to indicate how you did:
 😃 😐 😞
+
+
 |:Success Criteria                                          | How did I do:|
 | -------------                                             | ------------ | 
 | I can create sprites and costumes.                        |              |
