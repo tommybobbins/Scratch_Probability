@@ -1,7 +1,7 @@
 # Learning intentions
-
 |Name:                    | Class:                        |
 |-------------------------|-------------------------------|
+|                         |                               |
 
 ## Learning Intention
 I am programming computers to calculate the mean, median and mode of dice rolls.
