@@ -1,7 +1,7 @@
 # Learning intentions
 
-|:Name                    |:Class                          |
-|---|---|
+|Name                    |Class                          |
+|:---|:---|
 |   |   |
 
 ## Learning Intention
