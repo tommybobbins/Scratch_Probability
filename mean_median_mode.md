@@ -27,10 +27,10 @@ To calculate the mean,  we add all the rolls we have made up and then divide by 
 
 ## Activity Checklist
 
-+ To get the total score for all rolls, we create a variable *total_score* for all sprites. 
-+ To get the total number of rolls, it's easiest to store the value in a variable which we can then use and reuse in our scripts. Create a new value called *number_rolls* for all Sprites.
-+ Finally create a variable *mean*.
-+ Click on the stage icon and make the code look like the following:
++ To get the total score for all rolls, we create a variable *total_score* for all sprites. ☐
++ To get the total number of rolls, it's easiest to store the value in a variable which we can then use and reuse in our scripts. Create a new value called *number_rolls* for all Sprites. ☐
++ Finally create a variable *mean*. ☐
++ Click on the stage icon and make the code look like the following: ☐
 ![screenshot](images/mean.gif)
 
 
@@ -39,8 +39,8 @@ To calculate the mean,  we add all the rolls we have made up and then divide by 
 Click the green flag.
 
 + What is the mean value. Is this reasonable? __________________
-+ What happens if we change the number of rolls to 1000.
-+ If you used the cheating code last week, you could add the same code and find out the mean.
++ What happens if we change the number of rolls to 1000._________________
++ If you used the cheating code last week, you could add the same code and find out the mean. ☐
 
 ## Save your project
 
@@ -50,11 +50,11 @@ The mode is the value which occurs most often. For example if we roll (1,1,1,4,4
 
 ## Activity Checklist
 
-+ Create a variable dice_face which is used to count up the number of items in our list
-+ Create a sum_dice_sides variable which will be used to add the number on each face of the dice.
-+ Create a variable mode used to store the mode.
-+ Create a variable biggest_number which is used to store the biggest number of times this has been rolled.
-+ Add extra code to the *Stage* scripts. You should have this code in addition to the code to calculate the mean up above.
++ Create a variable *dice_face* which is used to count up the number of items in our list. ☐
++ Create a *sum_dice_sides* variable which will be used to add the number on each face of the dice. ☐
++ Create a variable *mode* used to store the mode. ☐
++ Create a variable biggest_number which is used to store the biggest number of times this has been rolled. ☐
++ Add extra code to the *Stage* scripts. You should have this code in addition to the code to calculate the mean up above. ☐
 
 ![screenshot](images/just_mode_mean.gif)
 
@@ -82,9 +82,8 @@ The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the medi
 
 ## Activity Checklist
 
-
-
 + Fill in the above table adding up the number each time to your total (e.g. we saw 1, 18 times 2 19 times so we add 18+19 = 37 we then add the number of times we saw 3 and so on...). The median is reached when you cross the mid-point (the mid point of 100 items is between the 50th and 51st item).
++ What is the median? _______________________
 
 
 ## Test your project
@@ -124,10 +123,11 @@ It is of course possible to calculate the median programatically in the same was
 
 ## Activity Checklist
 
-+ Open the dice_6_sided_mean_median_mode.sb
-+ Run the code.
++ Open the dice_6_sided_mean_median_mode.sb ☐
++ Run the code. ☐
 + How does the median compare to the mean? _________________________
 + Are you happy with the result?_______________________ Why?__________________________________________________________________________
++ Can you understand how the code works?________________
 
 ## Save your project
 
