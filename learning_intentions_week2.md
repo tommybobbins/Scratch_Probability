@@ -26,7 +26,7 @@ Use the following smilies to indicate how you did:
 | Extension                                                  |              |
 | -------------                                              |              |
 | I can calculate the mode programmatically.                 |              |
-| I can calculate the median for 10 rolls on paper.          |              |
+| I can calculate the median for on paper.          |              |
 | I can extend the code for >6 sided or loaded dice.         |              |
 | -------------                                              |              |
 | Challenge                                                  |              |
