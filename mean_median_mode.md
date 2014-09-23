@@ -2,6 +2,16 @@
 
 Extend the dice shaker from last week, we will investigate the mean, median and mode of a six sided dice thrown many times. Scratch will pick a random number between 1 and 6 and we will store the number of times each number appears. We are going to store the total number of rolls  in our list and then use the data inside the list to calculate the mean, median and mode of the dice rolls.
 
+|---------------|-----------------|
+|: Dice Number :| Cumulative Rolls|
+|---------------|-----------------|
+|      1        |                 |
+|      2        |                 |
+|      3        |                 |
+|      4        |                 |
+|      5        |                 |
+|      6        |     100         |
+|---------------|-----------------|
 
 ![screenshot](images/stage_6_sided_dice.gif)
 
@@ -70,14 +80,14 @@ Click the green flag.
 
 # Step 3: Extension: Calculate the median
 
-The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one.
+The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one. We have of course already stored all our rolls in the list *Dice_Rolls*. What we need to do is find the mid-point of this list. We do this by calculating a *cumulative total* - adding up the numbers of rolls.
 
 
 ## Activity Checklist
 
-+ Reduce the number of rolls down to 10.
-+ Create a new list called *all_rolls*. This will be used to store all the rolls as they occur.
-+ Sort through the list on a piece of paper, from lowest to highest. The median is the number which lies between the 5th and 6th item in list of 10 items.
+
+
++ Sort through the Dice_Rolls list on a piece of paper, adding up the number each time to your total (e.g. we saw 1, 18 times 2 19 times so we add 18+19 = 37 we then add the number of times we saw 3 and so on...). When you reach the 50t The median is the number which lies between the 5th and 6th item in list of 10 items.
 
 
 ## Test your project
