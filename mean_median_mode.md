@@ -117,11 +117,14 @@ What is the mean of the sum of two dice over 100 rolls ? ______________________
 
 
 # Step 4: Challenge: Calculating the Median Programatically.
+
+It is of course possible to calculate the median programatically in the same was as we calculated the median in the table we made earlier. Here is the code which can do it. This code is obviously complicated as it needs to know whether the list is an odd number or an even number long, before it can calculate the median from the cumulative totals. You are not expected to enter this code, but can use the code rolled earlier.
+
 ![screenshot](images/mean_median_mode.gif)
 
 ## Activity Checklist
 
-+ Open the code code/dice_6_sided_mean_median_mode.sb
++ Open the dice_6_sided_mean_median_mode.sb
 + Run the code.
 + How does the median compare to the mean? _________________________
 + Are you happy with the result?_______________________ Why?__________________________________________________________________________
