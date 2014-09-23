@@ -2,17 +2,6 @@
 
 Extend the dice shaker from last week, we will investigate the mean, median and mode of a six sided dice thrown many times. Scratch will pick a random number between 1 and 6 and we will store the number of times each number appears. We are going to store the total number of rolls  in our list and then use the data inside the list to calculate the mean, median and mode of the dice rolls.
 
-|---------------|-----------------|
-|: Dice Number :| Cumulative Rolls|
-|---------------|-----------------|
-|      1        |                 |
-|      2        |                 |
-|      3        |                 |
-|      4        |                 |
-|      5        |                 |
-|      6        |     100         |
-|---------------|-----------------|
-
 ![screenshot](images/stage_6_sided_dice.gif)
 
 # Step 1: Random number generator
@@ -82,6 +71,15 @@ Click the green flag.
 
 The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one. We have of course already stored all our rolls in the list *Dice_Rolls*. What we need to do is find the mid-point of this list. We do this by calculating a *cumulative total* - adding up the numbers of rolls.
 
+|: Dice Number :| Cumulative Rolls|
+|---------------|-----------------|
+|      1        |                 |
+|      2        |                 |
+|      3        |                 |
+|      4        |                 |
+|      5        |                 |
+|      6        |     100         |
+|---------------|-----------------|
 
 ## Activity Checklist
 
