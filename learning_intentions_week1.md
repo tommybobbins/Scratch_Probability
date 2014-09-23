@@ -1,8 +1,8 @@
 # Learning intentions
 
 
-|Name:                    | Class:                        |
-|-------------------------|-------------------------------|
+|Name                    | Class                          |
+|---|---|
 
 ## Learning Intention
 I am learning to code a dice Roll game
