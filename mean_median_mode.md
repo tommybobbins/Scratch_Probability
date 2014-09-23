@@ -69,7 +69,7 @@ Click the green flag.
 
 # Step 3: Extension: Calculate the median
 
-The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one. We have of course already stored all our rolls in the list *Dice_Rolls*. What we need to do is find the mid-point of this list. We do this by calculating a *cumulative total* - adding up the numbers of rolls.
+The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one. We have of course already sorted and stored all rolls in the list *Dice_Rolls*. What we need to do is find the mid-point of this list. We can find the mid-point by calculating a *cumulative total* - adding up the numbers of rolls. Once the cumulative total is greater than 50 we know which Dice number was the median.
 
 |  Dice Number  | Cumulative Rolls|
 |---------------|-----------------|
@@ -84,7 +84,7 @@ The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the medi
 
 
 
-+ Sort through the Dice_Rolls list on a piece of paper, adding up the number each time to your total (e.g. we saw 1, 18 times 2 19 times so we add 18+19 = 37 we then add the number of times we saw 3 and so on...). When you reach the 50t The median is the number which lies between the 5th and 6th item in list of 10 items.
++ Fill in the above table adding up the number each time to your total (e.g. we saw 1, 18 times 2 19 times so we add 18+19 = 37 we then add the number of times we saw 3 and so on...). The median is reached when you cross the mid-point (the mid point of 100 items is between the 50th and 51st item).
 
 
 ## Test your project
@@ -115,41 +115,17 @@ What is the mode of the sum of two dice over 100 rolls? ______________________
 What is the mean of the sum of two dice over 100 rolls ? ______________________
 
 
-# Step 5: Challenge: Using a Sorting algorithm to sort a bigger list:
 
-Computers are very good at calculating numbers and it can be interesting to use them to sort large amounts of numbers. In Computer Science, there are different *recipes* for sorting out lists. We call these Sorting Algorithms. In general, computers can only compare one thing with another thing, so programming computers to sort through lists can be difficult.
-
-In this challenge, we will use the computer to calculate the median. Remember than the median is the middle value of a sorted list. 
+# Step 4: Challenge: Calculating the Median Programatically.
+![screenshot](images/mean_median_mode.gif)
 
 ## Activity Checklist
 
-+ Ask your teacher to demonstrate the dice sorting problem.
-+ Create a new variable called *item*.
-+ Create a new variable called *insert_location*.
-+ Increase the number of rolls to 20.
-+ We will use a sorting algorithm called "insertion sort" to sort the values in all_rolls. Make your code look like the following:
-
-![screenshot](images/mean_median_mode.gif)
-
-### How it works
-+ This script sorts the data in the list *all_rolls*.
-+ The list has 2 parts.
-+ The first part is already sorted and the second part waiting to be sorted.
-+ When the program gets to an unsorted value in a list the program moves the value into its proper location in the first part of the list.
-+ When the program gets the end of the list all of the values have been sorted from least to greatest.
-
-
-## Test your project
-
-Click the green flag.
-
-+ How long does it take to sort the list (seconds, minutes or hours)?______________
-+ Does the list end up sorted?____________________
-+ How long does it take to sort the list when it has 100 rolls (seconds, minutes or hours)?______________
++ Open the code code/dice_6_sided_mean_median_mode.sb
++ Run the code.
 + How does the median compare to the mean? _________________________
 + Are you happy with the result?_______________________ Why?__________________________________________________________________________
 
 ## Save your project
 
 
-Insertion sort algorithm taken from http://wiki.scratch.mit.edu/wiki/Sorting_Values
