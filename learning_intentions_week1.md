@@ -1,15 +1,15 @@
 # Learning intentions
 
-
-|Name                    | Class                          |
+|:Name                    |:Class                          |
 |---|---|
+|   |   |
 
 ## Learning Intention
 I am learning to code a dice Roll game
 Use the following smilies to indicate how you did:
 😃 😐 😞
-| Success Criteria                                          | How did I do |
-| -------------                                             |:------------:| 
+|:Success Criteria                                          | How did I do:|
+| -------------                                             | ------------ | 
 | I can create sprites and costumes.                        |              |
 | I can create variables.                                   |              |
 | I can create a loop (repetition).                         |              |
