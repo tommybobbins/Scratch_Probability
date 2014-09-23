@@ -2,6 +2,7 @@
 |Name:                    | Class:                        |
 |-------------------------|-------------------------------|
 |                         |                               |
+|-------------------------|-------------------------------|
 
 ## Learning Intention
 I am programming computers to calculate the mean, median and mode of dice rolls.
@@ -33,3 +34,4 @@ Use the following smilies to indicate how you did:
 | I can debug any code that doesn't work.                    |              |
 | I calculate the median programmatically.                   |              |
 | I can use code to cheat.                                   |              |
+| -------------                                              |:------------:| 
