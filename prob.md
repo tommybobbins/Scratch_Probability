@@ -77,7 +77,7 @@ Click the green flag.
 
 ## Save your project
 
-# Step 5: Extension. Draw a graph of the probability.
+# Step 4: Extension. Draw a graph of the probability.
 
 We can draw a simple graph in Scratch using the X and Y position system (co-ordinates)
 
@@ -104,7 +104,7 @@ Click the green flag.
 
 ## Save your project 
 
-# Step 6:  Extension work: Extend to two dice
+# Step 5:  Extension work: Extend to two dice
 
 It is possible to extend this to two dice, adding the total on each dice together. For example 6 + 6 = 12. We would increase our 12 score by 1.
 
@@ -125,7 +125,7 @@ Click the green flag.
 + What is the most likely number from rolling two dice?  _________________
 + Increase the number of rolls to 1000, what is the most likely number now? _____________
 
-# Step 7:  Extension work: Cheating
+# Step 6:  Extension work: Cheating
 
 Examine the below code. 
 
