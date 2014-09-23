@@ -71,7 +71,7 @@ Click the green flag.
 
 The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one. We have of course already stored all our rolls in the list *Dice_Rolls*. What we need to do is find the mid-point of this list. We do this by calculating a *cumulative total* - adding up the numbers of rolls.
 
-|: Dice Number :| Cumulative Rolls|
+|  Dice Number  | Cumulative Rolls|
 |---------------|-----------------|
 |      1        |                 |
 |      2        |                 |
@@ -79,7 +79,6 @@ The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the medi
 |      4        |                 |
 |      5        |                 |
 |      6        |     100         |
-|---------------|-----------------|
 
 ## Activity Checklist
 
@@ -139,9 +138,6 @@ In this challenge, we will use the computer to calculate the median. Remember th
 + When the program gets to an unsorted value in a list the program moves the value into its proper location in the first part of the list.
 + When the program gets the end of the list all of the values have been sorted from least to greatest.
 
-![screenshot](images/Insertion-sort-example-300px.gif)
-
-Insertion-sort-example-300px by http:///commons.wikimedia.org/w/index.php?title=User:Swfung8 Swfung8. Licensed under http://creativecommons.org/licenses/by-sa/3.0 Creative Commons Attribution-Share Alike 3.0 via http://commons.wikimedia.org/wiki/ Wikimedia Commons.
 
 ## Test your project
 
