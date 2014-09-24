@@ -1,6 +1,6 @@
 # Introduction
 
-Extend the dice shaker from last week, we will investigate the mean, median and mode of a six sided dice thrown many times. Scratch will pick a random number between 1 and 6 and we will store the number of times each number appears. We are going to store the total number of rolls  in our list and then use the data inside the list to calculate the mean, median and mode of the dice rolls.
+This week, the plan is to extend the dice shaker we made last week and use it to investigate the mean, median and mode. To do this we will need to throw the dice many times. Scratch will pick a random number between 1 and 6 and we will store the number of times each number appears. We are going to store the total number of rolls  in our list and then use the data inside the list to calculate the mean, median and mode of the dice rolls.
 
 ![screenshot](images/stage_6_sided_dice.gif)
 
