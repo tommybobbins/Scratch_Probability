@@ -11,7 +11,7 @@ We are going to use Scratch to make a dice shaker. Scratch will pick a random nu
 
 + Start a new project. ☐
 + Click on the **stage** next to the sprite and switch to the `Backdrops` tab, and then click the `Choose Backdrop from library` button and choose any backdrop. Delete the original blank backdrop. ☐
-+ Create a variable called roll under Variables (Orange blocks) ☐
++ Create a variable called *roll* under Variables (Orange blocks) ☐
 + Create this script under Backgrounds **(not against Sprite1)**: ☐
 
 ![screenshot](images/1.gif)
@@ -62,8 +62,9 @@ Click the green flag.
 
 + How do this code work? The code in the list works by taking the item at position (1 to 6) and increasing it by one. ☐
 + How many 1's did you roll [ ]? How many 6's did you roll [  ]. Is this what you would expect? ☐
-+ How many 6's would you expect to roll if you increased the repeat value to 100? Why would it be a good idea to use 100 rolls instead of some other number ? ☐
-+ What happens when you click the green flag twice. We need to fix this: ☐
++ How many 6's would you expect to roll if you increased the repeat value to 100? Why would it be a good idea to use 100 rolls instead of some other number ? ☐______________________________________
++ What happens when you click the green flag twice?____________________
++ We need to fix this: ☐
 
 ![screenshot](images/8.gif)
 
@@ -73,7 +74,7 @@ Click the green flag.
 Click the green flag.
 
 + Does this fix the project?
-+ How many even numbers did you roll? Is this what you expected?
++ How many even numbers did you roll?__________________ Is this what you expected?
 
 ## Save your project
 
@@ -106,7 +107,7 @@ Click the green flag.
 
 # Step 5:  Extension work: Extend to two dice
 
-It is possible to extend this to two dice, adding the total on each dice together. For example 6 + 6 = 12. We would increase our 12 score by 1.
+It is possible to extend this to two dice, adding the total on each dice together. For example 6 + 6 = 12. We would then increase the 12th value in Dice_Rolls by one. Obviously we need to extend the list to reflect the increased range of roll possibilities.
 
 ## Activity Checklist
 
@@ -116,7 +117,7 @@ It is possible to extend this to two dice, adding the total on each dice togethe
 
 ![screenshot](images/12sided_dice_stage_script2.gif)
 
-You will need to extend the list to have up to 12 items in and you will need to zero all the boxes (not just 6). You do not have to worry about graphing all combinations. 
+You will need to extend the list to have up to 12 items in and you will need to zero all the boxes (not just 6). *Do not worry about graphing all combinations*. 
 
 ## Test your project
 
@@ -136,13 +137,12 @@ What does it do? ________________________________
 
 ![screenshot](images/cheating_code.gif)
 
-+ Why hasn't item 7 been initialized?
-
++ Why hasn't item 7 been initialized (replace item 7 of Dice_Rolls with 0)?_________________
 
 
 ## Test your project
 
 Click the green flag.
 
-+ What is the most likely number to be rolled?  Why? Would someone be able to spot that the dice was loaded? Why?
-+ What would happen if the random number was selected between 1 and 10 instead of 1 and 7? Why?
++ What is the most likely number to be rolled?__________________  Why?______________________________________________________ Would someone be able to spot that the dice was loaded? Why?___________________________________________________
++ What would happen if the random number was selected between 1 and 10 instead of 1 and 7? Why?________________________________________________________________________________________________________________________________________________________________________________________________________________________________
