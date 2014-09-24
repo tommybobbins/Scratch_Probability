@@ -17,9 +17,9 @@ We are going to use Scratch to make a dice shaker. Scratch will pick a random nu
 ## Activity Checklist
 
 + Start a new project. ☐
-+ Click on the **stage** next to the sprite and switch to the `Backdrops` tab, and then click the `Choose Backdrop from library` button and choose any backdrop. Delete the original blank backdrop. ☐
++ Click on the **stage** next to the sprite and switch to the `Backgrounds` tab, and then click the `Choose Background from library` button and choose any background. Delete the original background. ☐
 + Create a variable called *roll* under Variables (Orange blocks) ☐
-+ Create this script under Backgrounds **(not against Sprite1)**: ☐
++ Create this script under Sprite1: ☐
 
 ![screenshot](images/1.gif)
 
@@ -56,7 +56,7 @@ Ask your teacher to demonstrate the dice and cups sorter.
 
 ## Activity Checklist
 
-+ Make sure you are still clicked on the Background tab. ☐
++ Make sure you are still clicked on the Stage and that the Sprite1 scripts is empty. ☐
 + Create a list called Dice_Rolls underneath lists in the Orange variables blocks list. Make sure Dice_Rolls applies to all sprites. ☐
 + Modify the code so that it looks like the following. ☐
 ![screenshot](images/14.gif)
@@ -118,7 +118,7 @@ It is possible to extend this to two dice, adding the total on each dice togethe
 
 ## Activity Checklist
 
-+ Save your existing work.  You may need the simple dice game for other projects. ☐
++ Save your existing work as a 6 sided dice file - you will need it later on. ☐
 + Save the project with a new filename (for example, two_dice_game).  ☐
 + Make the code look like the following: ☐
 
