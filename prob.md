@@ -1,10 +1,11 @@
-# Introduction
+# Dice Rolling and Probability
 
 |Name                    |Class                          |
 |:---|:---|
 |______________   |____________________________________  |
 |______________   |____________________________________  |
 
+# Introduction
 
 We are going to use Scratch to make a dice shaker. Scratch will pick a random number between 1 and 6 and we will store the number of times each number appears. We are going to store the total number of rolls  in a new type of block called *a list*.
 
