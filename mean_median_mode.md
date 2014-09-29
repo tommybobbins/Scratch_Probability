@@ -75,7 +75,7 @@ Click the green flag.
 
 ## Save your project
 
-# Step 3: Extension: Calculate the median
+# Step 4: Extension: Calculate the median
 
 The median is the middle value (e.g. the median of rolls 1,3,5 is 3 and the median of 1,3,5,7 is 4). To calculate the median of our rolls, we need to store all the values, sort them and then find the middle one. We have of course already sorted and stored all rolls in the list *Dice_Rolls*. What we need to do is find the mid-point of this list. We can find the mid-point by calculating a *cumulative total* - adding up the numbers of rolls. Once the cumulative total is greater than 50 we know which Dice number was the median.
 
@@ -104,7 +104,7 @@ Click the green flag.
 ## Save your project
 
 
-# Step 3: Extension: Mean, Median and Mode of the cheating dice.
+# Step 5: Extension: Mean, Median and Mode of the cheating dice.
 
 If you used the cheating dice last week which rolls a 6 more often than it should, then you can apply the same code above to those programs.
 
@@ -114,7 +114,7 @@ What will happen to the median? ______________________ Why?  _______________
 
 
 
-# Step 4: Extension: Mean, Median and Mode of the two dice.
+# Step 6: Extension: Mean, Median and Mode of the two dice.
 
 If you calculated the sum of two dice last week, then calculate the mean, median and mode of two dice by applying the code above to both dice.
 
@@ -123,7 +123,7 @@ What is the mean of the sum of two dice over 100 rolls ? ______________________
 
 
 
-# Step 4: Challenge: Calculating the Median Programatically.
+# Step 7: Challenge: Calculating the Median Programatically.
 
 It is of course possible to calculate the median programatically in the same was as we calculated the median in the table we made earlier. Here is the code which can do it. This code is obviously complicated as it needs to know whether the list is an odd number or an even number long, before it can calculate the median from the cumulative totals. You are not expected to enter this code, but can use the code rolled earlier.
 
